@@ -102,4 +102,4 @@ npm run test:api
 ## Contributors: 
 + [Grzegorz Antkiewicz](https://github.com/AntkiewiczGrzegorz1997)
 + [Mikhail Rashkovskiy](https://github.com/miklyx)
-+ [Javier Villamizar](https://github.com/jvillamizar18) - original idea and source.
++ [Javier Villamizar](https://github.com/jvillamizar18)
